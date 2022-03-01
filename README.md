@@ -47,17 +47,9 @@ Bob zhu<Br/>
 Eunsuh Lee<Br/>
 Ryan LU<Br/>
 Xinying Qiao<Br/>
- 
-# start/end dates
-
-  
-
-# Gantt chart 
 
 # Limitations
 The project is completely realized through mapping, so the problem must be the same as that designed in advance, and the submitted program has no ability to correct errors.
 In addition, the answer to the nearest hospital is realized by random number, which is not true.
 
-# Sample out
- 
  
