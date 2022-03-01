@@ -16,24 +16,22 @@ This is the most suitable life cycle for a project with a small team allocation 
 1.2 Create WBS and Gantt chart<Br/>
 1.3 Identify the topic of the agent<Br/>
 1.4 Define how the user will use the software<Br/>
-## 2. Design
-2.1 Identify the question and corresponding answer
-2.2 Identify objects and methods
-2.3 Design the form of input and output
-3. Development
-## 3.1 Coding
-4. Testing
-4.1 Identify and execute test cases
-4.2 Device testing
-WBS
-group member: 
-Bob zhu
-Eunsuh Lee
-Ryan LU
-Xinying Qiao
-Yihang Wang
-
- 
+2. Design<Br/>
+2.1 Identify the question and corresponding answer<Br/>
+2.2 Identify objects and methods<Br/>
+2.3 Design the form of input and output<Br/>
+3. Development<Br/>
+3.1 Coding<Br/>
+4. Testing<Br/>
+4.1 Identify and execute test cases<Br/>
+4.2 Device testing<Br/>
+# WBS
+group member: <Br/>
+Yihang Wang<Br/>
+Bob zhu<Br/>
+Eunsuh Lee<Br/>
+Ryan LU<Br/>
+Xinying Qiao<Br/>
  
 start/end dates
   
