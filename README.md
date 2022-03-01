@@ -11,11 +11,11 @@ Agile development SDLC is chosen in this project.
 • Minimal documentation – focus on working code
 This is the most suitable life cycle for a project with a small team allocation and a short project timeframe.
 # Phases
-## 1. Planning
-1.1 Study existing systems
-1.2 Create WBS and Gantt chart
-1.3 Identify the topic of the agent
-1.4 Define how the user will use the software
+1. Planning<Br/>
+1.1 Study existing systems<Br/>
+1.2 Create WBS and Gantt chart<Br/>
+1.3 Identify the topic of the agent<Br/>
+1.4 Define how the user will use the software<Br/>
 ## 2. Design
 2.1 Identify the question and corresponding answer
 2.2 Identify objects and methods
