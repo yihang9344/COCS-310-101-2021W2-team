@@ -3,6 +3,20 @@
 # Description
 The project is an interactive dialogue agent for disease diagnosis and treatment, which will use various methods to respond to relevant user questions. The user can ask the agent questions about current physical condition and get brief diagnosis and suggestions. The role of the agent is to answer the relevant information that users need to know when they have physical abnormalities.<Br/>
 The structure of the project is to design questions and corresponding answers in advance, but it is not rigid. In the process of implementation, even the same question can be answered differently according to different situations. In this project, all input and output are completed in the console.<Br/>
+# Class Description
+chat.java<Br/>
+Run as the main function and complete the input and output on the console.<Br/><Br/>
+dialog.java<Br/>
+Store questions and answers.<Br/>
+Return the answer to the user’s question.<Br/><Br/>
+initial():<Br/>
+Input: null<Br/>
+Output: null<Br/>
+Initialize all questions and corresponding answers.<Br/><Br/>
+answer(String question):<Br/>
+Input: the question to be answered<Br/>
+Output: the answer of the question<Br/>
+return the answer to the user’s question.<Br/>
 # Description and rationale for the chosen SDLC
 Agile development SDLC is chosen in this project.<Br/>
 • Program specification, design and implementation are inter-leaved<Br/>
