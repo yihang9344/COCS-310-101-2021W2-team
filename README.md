@@ -59,6 +59,7 @@ Xinying Qiao<Br/>
 <Br/>
 Ryan LU - No longer in this group<Br/>
 
+![image2](https://github.com/yihang9344/COCS-310-101-2021W2-team/blob/main/image2.png)
 
 # Limitations
 The project is completely realized through mapping, so the problem must be the same as that designed in advance, and the submitted program has no ability to correct errors.
