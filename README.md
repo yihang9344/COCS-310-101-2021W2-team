@@ -67,7 +67,13 @@ In addition, the answer to the nearest hospital is realized by random number, wh
 
 # Feature List
 - Different questions have different answers : When patients ask different health questions, the system will give different responses.<Br/>
+ ![response](https://github.com/yihang9344/COCS-310-101-2021W2-team/blob/main/different%20replies.png)
 - Detecting positive and negative words in questions: like people say "I'm happy today." and "I'm sad today." will have specific replies.<Br/>
+ ![positive](https://github.com/yihang9344/COCS-310-101-2021W2-team/blob/main/positive%20words.png)
+ ![negative](https://github.com/yihang9344/COCS-310-101-2021W2-team/blob/main/negative%20words.jpeg)
 - Detecting people's name in questions: Like people say "I'm Jojo.", the agent will give them response.<Br/>
+ ![name](https://github.com/yihang9344/COCS-310-101-2021W2-team/blob/main/name.jpeg)
 - Detecting interjection in questions: If users say "Hey""Hi", the agent will say "Hi, how are you?".<Br/>
+ ![UH](https://github.com/yihang9344/COCS-310-101-2021W2-team/blob/main/UH.jpeg)
 - At least five off-topic replies:If the user asks an unrelated question, there are five different recovery options.<Br/>
+ ![off-topic](https://github.com/yihang9344/COCS-310-101-2021W2-team/blob/main/5%20out-off%20topic.png)
