@@ -45,7 +45,7 @@ group member: <Br/>
 Yihang Wang<Br/>
 Bob zhu<Br/>
 Eunsuh Lee<Br/>
-Ryan LU<Br/>
+Ryan LU - No longer in this group<Br/>
 Xinying Qiao<Br/>
 A2:<Br/>
 ![image](https://github.com/yihang9344/COCS-310-101-2021W2-team/blob/main/image.png)
