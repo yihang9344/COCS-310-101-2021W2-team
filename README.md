@@ -41,15 +41,23 @@ This is the most suitable life cycle for a project with a small team allocation 
 4.1 Identify and execute test cases<Br/>
 4.2 Device testing<Br/>
 # WBS
+A2:<Br/>
 group member: <Br/>
 Yihang Wang<Br/>
 Bob zhu<Br/>
 Eunsuh Lee<Br/>
-Ryan LU - No longer in this group<Br/>
+Ryan LU <Br/>
 Xinying Qiao<Br/>
-A2:<Br/>
-![image](https://github.com/yihang9344/COCS-310-101-2021W2-team/blob/main/image.png)
 
+![image](https://github.com/yihang9344/COCS-310-101-2021W2-team/blob/main/image.png)
+A3:<Br/>
+group member: <Br/>
+Yihang Wang<Br/>
+Bob zhu<Br/>
+Eunsuh Lee<Br/>
+Xinying Qiao<Br/>
+<Br/>
+Ryan LU - No longer in this group<Br/>
 
 
 # Limitations
