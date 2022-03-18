@@ -66,4 +66,8 @@ The project is completely realized through mapping, so the problem must be the s
 In addition, the answer to the nearest hospital is realized by random number, which is not true.
 
 # Feature List
-- response<Br/>
+- Different questions have different answers : When patients ask different health questions, the system will give different responses.<Br/>
+- Detecting positive and negative words in questions: like people say "I'm happy today." and "I'm sad today." will have specific replies.<Br/>
+- Detecting people's name in questions: Like people say "I'm Jojo.", the agent will give them response.<Br/>
+- Detecting interjection in questions: If users say "Hey""Hi", the agent will say "Hi, how are you?".<Br/>
+- At least five off-topic replies:If the user asks an unrelated question, there are five different recovery options.<Br/>
