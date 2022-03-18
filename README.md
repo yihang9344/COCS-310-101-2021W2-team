@@ -49,7 +49,7 @@ Eunsuh Lee<Br/>
 Ryan LU <Br/>
 Xinying Qiao<Br/>
 
-![image](https://github.com/yihang9344/COCS-310-101-2021W2-team/blob/main/image.png)
+![image](https://github.com/yihang9344/COCS-310-101-2021W2-team/blob/main/image.png)<Br/>
 A3:<Br/>
 group member: <Br/>
 Yihang Wang<Br/>
