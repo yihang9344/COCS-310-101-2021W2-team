@@ -1,6 +1,8 @@
 # COCS-310-101-2021W2-team 
 # interactive conversational agent
 # Description
+
+# Please download Maven to run the code<Br/>
 The project is an interactive dialogue agent for disease diagnosis and treatment, which will use various methods to respond to relevant user questions. The user can ask the agent questions about current physical condition and get brief diagnosis and suggestions. The role of the agent is to answer the relevant information that users need to know when they have physical abnormalities.<Br/>
 The structure of the project is to design questions and corresponding answers in advance, but it is not rigid. In the process of implementation, even the same question can be answered differently according to different situations. In this project, all input and output are completed in the console.<Br/>
 # Class Description
